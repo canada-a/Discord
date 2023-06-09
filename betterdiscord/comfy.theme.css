@@ -72,8 +72,8 @@
   /* Mention - Default value : #F04747 */
   --mention-color: #f04747;
 
-  /* Unread - Default value : #7289DA */
-  --unread-color: #7289da;
+  /* Unread - Default value : #d1462f */
+  --unread-color: #d1462f;
 
   /*  『 🔴 Mention colors in chat 』 */
 
@@ -88,8 +88,8 @@
 
   /* ═══════『 💬 Chat buttons 』═══════ */
 
-  /* Default value : #7289DA */
-  --chat-buttons: #7289da;
+  /* Default value : #d1462f */
+  --chat-buttons: #d1462f;
 
   /* ═══════『 💬 SpotifyControls seek bar 』═══════
 *   ℹ️ : If you don't have the plugin : https://betterdiscord.app/plugin/SpotifyControls */
@@ -117,7 +117,7 @@
   /* ═══════『 🔰 User popout 』═══════ */
 
   /* Playing wave color */
-  --playing: #7289da;
+  --playing: #d1462f;
 
   /* Listening wave color */
   --listening: #1db653;
@@ -134,14 +134,14 @@
 .theme-dark {
   --background-primary: #070600;
   --background-secondary: #0C0B05;
-  --background-secondary-alt: #191f2e;
+  --background-secondary-alt: #177e89;
   --background-tertiary: #101320;
-  --background-accent: #7289da;
+  --background-accent: #d1462f;
 
   --modal-background: #070600;
   --background-mobile-primary: #070600;
-  --background-mobile-secondary: #171610;
-  --channeltextarea-background: #191f2e;
+  --background-mobile-secondary: #0C0B05;
+  --channeltextarea-background: #177e89;
   --background-message-hover: transparent;
   --background-modifier-hover: #00000010;
   --background-modifier-active: #0000001a;
@@ -151,18 +151,18 @@
   --deprecated-quickswitcher-input-background: #101320;
   --elevation-low: none;
   --scrollbar-auto-thumb: #121722;
-  --scrollbar-auto-track: #191f2e;
+  --scrollbar-auto-track: #177e89;
   --scrollbar-thin-thumb: #141925;
   --activity-card-background: #101320;
-  --input-background: #171610;
+  --input-background: #0C0B05;
 }
 
 .theme-light {
   --background-primary: #070600;
-  --background-secondary: #171610;
-  --background-secondary-alt: #191f2e;
+  --background-secondary: #0C0B05;
+  --background-secondary-alt: #177e89;
   --background-tertiary: #101320;
-  --background-accent: #7289da;
+  --background-accent: #d1462f;
   --background-modifier-hover: #262b41;
   --background-modifier-active: #262b41;
   --header-primary: #fff;
